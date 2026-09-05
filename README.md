@@ -35,6 +35,7 @@ Install the required package:
 ```bash
 pip install -r requirements.txt
 
+python pro.py
 
 Username: admin
 Password: 123
