@@ -1,0 +1,16 @@
+[
+    {
+        "id": 101,
+        "name": "asus tuf",
+        "price": 35000.0,
+        "quantity": 5,
+        "category": "Laptop"
+    },
+    {
+        "id": 102,
+        "name": "lenovo",
+        "price": 40000.0,
+        "quantity": 10,
+        "category": "Laptop"
+    }
+]
